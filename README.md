@@ -1,4 +1,5 @@
-# Windows-use-GitLab
+# GitHub-and-JavaWeb-for-Windows
+## Windows Github客户端使用
 Git和windows Git客户端安装: https://blog.csdn.net/Gease_lcj/article/details/80452651  
 Navicat为免安装版： 注册码为Navicat文件夹中的key.txt 
 
